@@ -7,7 +7,7 @@ export const theme = createTheme({
     fontFamily: ["Roboto", "Kodchasan", "sans-serif"].join(","),
     fontSize: 14,
   },
-  colors: {
+  palette: {
     background: {
       default: "rgb(230, 230, 230)",
     },
