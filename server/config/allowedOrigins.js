@@ -1,6 +1,6 @@
 const allowedOrigins = [
-  "https://www.react-register.com",
-  "https://react-register.com",
+  "https://www.xxxxxxxxxxxxxxx.com",
+  "https://xxxxxxxxxxxxxxx.com",
   "http://localhost:3000",
 ];
 
